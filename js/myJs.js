@@ -3,7 +3,7 @@ const textConfig = {
   text2: "Em có điều này suy nghĩ đã rất lâu, giờ muốn hỏi nhưng mà anh nhớ phải trả lời thật lòng nhaaa",
   text3: "Anh có thích Linh không nào??? ._.",
   text4: "Nếu anh chưa trả lời mà thoát ra tức là thừa nhận tình cảm rùi đó nha :v",
-  text5: "Anh mơ à???",
+  text5: "Em mơ à???",
   text6: "Yêu ơi là yêu <3",
   text7: "Lý do anh thích Linh là gì vậy :vvvv",
   text8: "Gửi cho em ❤",
